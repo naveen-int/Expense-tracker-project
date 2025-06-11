@@ -4,18 +4,18 @@ A beginner-friendly Python command-line project to help you track your daily exp
 
 ---
 
-## 📌 Features
+##  Features
 
-* ➕ Add new expense entries
-* 📋 View all expense history
-* 💰 Show total expenses
-* 🗑️ Delete all records
-* 🔄 Reset and Close options
-* 🗂️ Stores data in `expenses.csv`
+*  Add new expense entries
+*  View all expense history
+*  Show total expenses
+*  Delete all records
+*  Reset and Close options
+*  Stores data in `expenses.csv`
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Make sure the following are installed:
 
