@@ -104,7 +104,7 @@ def show_menu():
             delete_history()
         elif choice == "5":
             print("\n👋 Thank you for using the Expense Tracker!")
-            print("🧑‍💻 Developed by Naveen\n")
+            print("🧑‍💻 Developed by Naveen S\n")
             break
         else:
             print("❌ Invalid choice. Try again.")
