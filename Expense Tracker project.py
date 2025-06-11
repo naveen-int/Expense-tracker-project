@@ -1,6 +1,6 @@
 # ============================================
-# 🔒 Authored by: Naveen S
-# 📅 Created: 2025-06-11
+#  Authored by: Naveen S
+#  Created: 2025-06-11
 # ============================================
 import csv
 import os
